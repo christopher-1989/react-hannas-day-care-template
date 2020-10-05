@@ -22,6 +22,13 @@ function HeroSection() {
                 </Button>
 
             </div>
+
+            <div className="down-button">
+                
+                <a className="slider" href="#cards" >
+                    <i className="fas fa-chevron-down" />
+                </a>
+            </div>
         </div>
     )
 }
